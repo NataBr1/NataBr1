@@ -6,7 +6,8 @@
 
 <h2>Контакты</h2>
  <ul>
-   <li> </li>
+   <li><img src="https://github.com/NataBr1/NataBr1/assets/116519341/11b1d051-32cd-429c-a953-8593cbf5f90c" width=20px><a href="https://t.me/BryzgalovaNatalya"> @BryzgalovaNatalya</a> </li>
+   <li><img src="https://github.com/NataBr1/NataBr1/assets/116519341/0aa8cf79-89c3-4d30-a945-edcf456d4ed4" width=20px><a href="mailto:kchpnatali@mail.ru"> kchpnatali@mail.ru</a></li>
  </ul>
  
  <h2>Обо мне</h2>
@@ -28,6 +29,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/100767361/192206773-abbd38dd-7dcd-47b9-97de-826bd3a30836.png" title="git" width="40" height="40"/>&nbsp;
 
 
 <h2>Статистика</h2>
